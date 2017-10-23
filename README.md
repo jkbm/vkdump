@@ -4,12 +4,12 @@ Download all media from a particular dialog in vkontakte social network
 
 ## Getting Started
 
-*Create app in VK api - [Create app](https://vk.com/editapp?act=create)
-*Generate access token - [Generate access toketn](https://oauth.vk.com/authorize?client_id=5490057&display=page&redirect_uri=https://oauth.vk.com/blank.html&scope=friends&response_type=token&v=5.52)
-*Find out needed dialog peer id(2000000000 + id for group chat). It can be retrieved from dialog link as one of the parameters.
+* Create app in VK api - [Create app](https://vk.com/editapp?act=create)
+* Generate access token - [Generate access toketn](https://oauth.vk.com/authorize?client_id=5490057&display=page&redirect_uri=https://oauth.vk.com/blank.html&scope=friends&response_type=token&v=5.52)
+* Find out needed dialog peer id(2000000000 + id for group chat). It can be retrieved from dialog link as one of the parameters.
 
-*Provide the data to the script in code or using prompt, specify folder to save.
-*After that script will automaticly retriev all the media files.
+* Provide the data to the script in code or using prompt, specify folder to save.
+* After that script will automaticly retriev all the media files.
 
 ### Prerequisites
 
